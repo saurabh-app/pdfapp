@@ -22,7 +22,7 @@ import java.io.InputStream;
 class TableWithImageInfo { private static Context context;
     private static double totalAmount;
     private static Image image;
-
+//ngfngfhmvmvmgfhjfhnghngfjvbmhgjfm
     public TableWithImageInfo(Context context) {
         this.context = context;
     }
